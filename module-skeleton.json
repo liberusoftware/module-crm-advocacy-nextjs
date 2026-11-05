@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-advocacy-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-advocacy",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-advocacy-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/advocacy.md",
+  "presentationPlan": "projects/crm/nextjs/advocacy.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
